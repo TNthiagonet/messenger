@@ -1,0 +1,8 @@
+# messenger
+
+flutter create messenger --empty
+
+cd messenger
+
+flutter run
+
